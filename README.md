@@ -9,6 +9,8 @@ AddTasks consists of an image, text(props) and a checkbox and styles as well. Va
 
 I used additional component such as Button.js, DrawerContent.js, Header.js, Title.js. I also have file - links.js which consists of 2 links (Privacy Policy for TasksApp and Terms and Conditions for TasksApp), I generated with www.freeprivacypolicy.com.
 
+The app has simple design and it's easy to use it for users. 
+
 
 
 Dependencies:
