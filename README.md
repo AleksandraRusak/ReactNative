@@ -21,3 +21,5 @@ Dependencies:
    7. "react-native-screens"
    8. "expo-checkbox"
 
+
+<img width="982" alt="Screenshot 2023-02-02 at 16 06 49" src="https://user-images.githubusercontent.com/112869405/216361930-d5dbc137-1662-460f-b639-33b7313d54df.png">
